@@ -1,0 +1,34 @@
+body{
+    background-color:rgb(174, 173, 230);
+   background-image: url("../../IMG/butterfly.png");
+   background-repeat: repeat;
+}
+h1.class{
+    color:white;
+    text-align: center;
+}
+p.chase{
+    color:midnightblue;
+}
+h2{
+    color:white;
+}
+
+section{
+     color: white;
+}
+article,p{
+    color: white;
+}
+footer{
+    color: white;
+}
+header{
+    color: white;
+}
+ol{
+    color: white;
+}
+ul{
+    color: white;
+}
